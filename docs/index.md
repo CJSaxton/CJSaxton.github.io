@@ -28,8 +28,8 @@ Accuracy depends on the directness of boundary conditions, simple vertical profi
 and raising *Λ* to enclose the most active Fourier modes.  
 However, spatial anisotropies are *Λ*-sensitive in all our tests.
 
+\[[PDF](20230911_saxton_poster1.pdf)\]
 2023-09-11 [GAFDEM](https://gafdem.sciencesconf.org/), Nice, Fr
-[PDF](20230911_saxton_poster1.pdf)
 
 ---
 
@@ -42,7 +42,7 @@ However, spatial anisotropies are *Λ*-sensitive in all our tests.
 
 Information entropy measures the disorder or inherent difficulty of predicting spatial and temporal structures in a time-series or spatially in a high-dimensional dynamical system.  Statistical complexity characterises departures from equilibrium distributions (even given a fixed entropy), and can distinguish deterministic from stochastic physics (chaos vs noise).  Related measures of causality quantify the relative influence of time-irreversible and -reversible processes (or directionality spatially).  Calculating these scores from direct numerical simulations can characterise the importance of coherent structures or turbulent transitions. It is also interesting to compare the scores for physically equivalent models calculated via approximate methods (e.g. generalised quasilinear models or data-driven codes).  The entropic cost of any approximation scheme is objectively derivable.  We consider diverse applications to (e.g.) fluid thermal convection, magneto-rotational turbulence, and gyrokinetic plasma turbulence.
 
+\[[PDF](20230911_saxton_poster2.pdf)\]
 2023-09-11 [GAFDEM](https://gafdem.sciencesconf.org/), Nice, Fr
-[PDF](20230911_saxton_poster2.pdf)
 
 ---
