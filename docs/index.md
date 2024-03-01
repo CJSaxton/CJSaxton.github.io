@@ -3,6 +3,66 @@
 
 ## Recent Presentations:
 
+### Entropy, complexity, and causality in direct and approximated fluid simulations
+[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
+[Ajay&nbsp;Chandrarajan&nbsp;Jayalekshmi](https://orcid.org/0000-0002-6447-581X),
+[Anna&nbsp;Guseva](https://orcid.org/0000-0003-2831-184X),
+[Ben&nbsp;F.&nbsp;McMillan](https://orcid.org/0000-0003-1509-2940),
+[Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716)
+
+Information entropy measures the disorder or inherent difficulty of predicting spatial and temporal structures
+in a time-series or spatially in a high-dimensional dynamical system.
+Statistical complexity characterises departures from equilibrium distributions (even given a fixed entropy),
+and can distinguish deterministic from stochastic physics (chaos vs noise).
+Related measures of causality quantify the relative influence of time-irreversible and 
+-reversible processes (or directionality spatially).
+Calculating these scores from direct numerical simulations can characterise the importance of coherent structures or turbulent transitions.
+It is also interesting to compare the scores for physically equivalent models calculated via approximate methods
+(e.g. generalised quasilinear models or data-driven codes).
+The entropic cost of any approximation scheme is objectively derivable.
+We consider diverse applications to
+(e.g.) fluid thermal convection,
+magneto-rotational turbulence,
+and gyrokinetic plasma turbulence.
+
+\[[PDF](20240125_saxton_poster.pdf)\]
+2024-01-25/26,
+[LIFD 5th Birthday Celebration](https://fluids.leeds.ac.uk/events/lifd-5th-birthday-celebration/),
+Leeds, UK.
+
+---
+
+### Spatially logarithmic simulations of Rayleigh-Bénard convection
+[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
+[Keaton&nbsp;J.&nbsp;Burns](https://orcid.org/0000-0003-4761-4766),
+[Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716),
+[Rich&nbsp;R.&nbsp;Kerswell](https://orcid.org/0000-0001-5460-5337).
+
+We investigate the heat transport and flow properties of 2D thermal convection
+in a Boussinesq fluid at high effective resolution and extremes of convective driving (Rayleigh number). 
+Upper and lower boundaries are isothermal,
+with no-slip velocity conditions,
+and the vertical grid is a Chebyshev array.
+Horizontal modes evolve on a logarithmic grid in *k*-space,
+with points at regular irrational intervals,
+spanning >4 orders of magnitude spatially (at little computational cost).
+Chosen lattice parameters affect the realism of spectra and energy transfers.
+The domain is horizontally infinite,
+and *x*-space snapshots can be rendered at any interval.
+Freed from the implicit constraints of a standard periodic box,
+non-repeating asymmetric flow structures can migrate.
+Transient zonal flows are faster in some regimes.
+Nusselt numbers (heat transfer) tend to follow a classical 1/3 power-law with Rayleigh numbers, even to high extremes.
+This demonstration suggests that spatially
+logarithmic simulations (on ordinary hardware)
+can decisively resolve some physical models and conditions
+that are computationally unaffordable using normal algorithms.
+
+2024-01-11/12
+[AMS80 Conference](https://conferences.ncl.ac.uk/ams80/), Newcastle, UK.
+
+---
+
 ### Rotating thermal convection under generalised quasilinear approximations
 [Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
 [J.&nbsp;Brad&nbsp;Marston](https://orcid.org/0000-0002-9751-829X),
