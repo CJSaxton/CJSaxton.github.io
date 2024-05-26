@@ -27,7 +27,7 @@ A few further methodological improvements could bring previously unattainable re
 
 2024-04-09,
 [65th British Applied Mathematics Colloquium](https://conferences.ncl.ac.uk/bamc2024/),
-Newcastle U., UK
+Newcastle&nbsp;U., UK
 
 ---
 
@@ -56,7 +56,7 @@ and gyrokinetic plasma turbulence.
 \[[PDF](20240125_saxton_poster.pdf)\]
 2024-01-25/26,
 [LIFD 5th Birthday Celebration](https://fluids.leeds.ac.uk/events/lifd-5th-birthday-celebration/),
-Leeds, UK.
+U.&nbsp;Leeds, UK.
 
 ---
 
@@ -87,7 +87,7 @@ can decisively resolve some physical models and conditions
 that are computationally unaffordable using normal algorithms.
 
 2024-01-11/12
-[AMS80 Conference](https://conferences.ncl.ac.uk/ams80/), Newcastle, UK.
+[AMS80 Conference](https://conferences.ncl.ac.uk/ams80/), Newcastle&nbsp;U., UK
 
 ---
 
