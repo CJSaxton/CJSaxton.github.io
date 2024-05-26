@@ -88,6 +88,7 @@ Accuracy depends on the directness of boundary conditions, simple vertical profi
 and raising *Λ* to enclose the most active Fourier modes.
 However, spatial anisotropies are *Λ*-sensitive in all our tests.
 
+\[[DOI](http://dx.doi.org/10.13140/RG.2.2.13650.77764)\]
 \[[PDF](20230911_saxton_poster1x.pdf)\]
 2023-09-11 [GAFDEM](https://gafdem.sciencesconf.org/), Nice, France.
 
@@ -115,6 +116,7 @@ We consider diverse applications to
 magneto-rotational turbulence,
 and gyrokinetic plasma turbulence.
 
+\[[DOI](http://dx.doi.org/10.13140/RG.2.2.27072.55044)\]
 \[[PDF](20230911_saxton_poster2x.pdf)\]
 2023-09-11 [GAFDEM](https://gafdem.sciencesconf.org/), Nice, France.
 
