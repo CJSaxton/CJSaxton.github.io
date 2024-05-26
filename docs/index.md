@@ -3,6 +3,34 @@
 
 ## Recent Presentations:
 
+### Spatially logarithmic simulations of Rayleigh-Bénard convection at high Ra
+[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
+[Keaton&nbsp;J.&nbsp;Burns](https://orcid.org/0000-0003-4761-4766),
+[Rich&nbsp;R.&nbsp;Kerswell](https://orcid.org/0000-0001-5460-5337),
+[Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716).
+
+Turbulent convection at high Rayleigh numbers (Ra) involves active structures spanning orders of magnitude spatially,
+in the bulk and in the boundary layers.
+The required resolution can be expensive or impossible for direct numerical simulations (DNS).
+We consider alternative schemes based on logarithmic grids in Fourier space.
+Constant-coefficient linear operators are exact.
+Nonlinear operators are approximated by finite lattice-supported triads
+(somewhat akin to shell models, but enabling a range of nonlocal interactions).
+We apply these lattices to horizontal dimensions,
+combined with a Chebyshev representation vertically,
+to investigate the scaling properties for the heat transport in Rayleigh-Benard convection up to extreme Ra.
+As a side-effect of irrational k-space scaling,
+the spatial domain is horizontally infinite (not a periodic box) and populated by asymmetric, nonrepetitive flow structures.
+Thermal boundary layers are well resolved by the large Chebyshev resolution.
+We discuss details of these emergent phenomena, and present the global scaling laws.
+A few further methodological improvements could bring previously unattainable regimes into the reach of ordinary computer hardware.
+
+2024-04-09,
+[65th British Applied Mathematics Colloquium](https://conferences.ncl.ac.uk/bamc2024/),
+Newcastle U., UK
+
+---
+
 ### Entropy, complexity, and causality in direct and approximated fluid simulations
 [Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
 [Ajay&nbsp;Chandrarajan&nbsp;Jayalekshmi](https://orcid.org/0000-0002-6447-581X),
