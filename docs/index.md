@@ -1,4 +1,4 @@
-# CJSaxton
+# Curtis J Saxton
 ---
 
 ## Recent Presentations:
