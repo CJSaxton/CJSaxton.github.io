@@ -117,7 +117,7 @@ and raising *Λ* to enclose the most active Fourier modes.
 However, spatial anisotropies are *Λ*-sensitive in all our tests.
 
 \[[DOI](http://dx.doi.org/10.13140/RG.2.2.13650.77764)\]
-\[[PDF](pdf/20230911_saxton_poster1.pdf)\]
+\[[PDF](pdf/20230911_saxton_poster_1.pdf)\]
 2023-09-11 [GAFDEM](https://gafdem.sciencesconf.org/), Nice, France.
 
 ---
@@ -145,7 +145,7 @@ magneto-rotational turbulence,
 and gyrokinetic plasma turbulence.
 
 \[[DOI](http://dx.doi.org/10.13140/RG.2.2.27072.55044)\]
-\[[PDF](pdf/20230911_saxton_poster2.pdf)\]
+\[[PDF](pdf/20230911_saxton_poster_2.pdf)\]
 2023-09-11 [GAFDEM](https://gafdem.sciencesconf.org/), Nice, France.
 
 ---
