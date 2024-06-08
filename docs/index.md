@@ -3,7 +3,7 @@
 
 ## Recent Presentations:
 
-## Spatially logarithmic simulations of extreme thermal convection and convective fingering
+### Spatially logarithmic simulations of extreme thermal convection and convective fingering
 [Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
 [Keaton&nbsp;J.&nbsp;Burns](https://orcid.org/0000-0003-4761-4766),
 [Rich&nbsp;R.&nbsp;Kerswell](https://orcid.org/0000-0001-5460-5337),
@@ -26,7 +26,7 @@ Coventry&nbsp;U., UK.
 
 ---
 
-### Qunatifying entropy and asymmetry in convective and magnetic turbulence
+### Quantifying entropy and asymmetry in convective and magnetic turbulence
 
 [Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
 [Ajay&nbsp;Chandrarajan&nbsp;Jayalekshmi](https://orcid.org/0000-0002-6447-581X),
@@ -34,7 +34,12 @@ Coventry&nbsp;U., UK.
 [Ben&nbsp;F.&nbsp;McMillan](https://orcid.org/0000-0003-1509-2940),
 [Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716)
 
-Information entropy measures the disorder or inherent unpredictability of spatial and temporal structures in a time-series or spatially in a high-dimensional dynamical system.  Statistical complexity characterises disequilibrium (even given a fixed entropy), and can distinguish deterministic from stochastic physics (chaos vs noise).  Related measures of causality quantify the relative influence of time-irreversible and -reversible processes, or spatial asymmetry, handedness and directionality.  Calculating these entropic scores from output from simulations can measure strengths of coherent structures or signify turbulent transitions.  The entropic cost of numerical approximation schemes (e.g. generalised quasilinear models) is objectively derivable by comparison to DNS.  We consider diverse applications to (e.g.) fluid thermal convection, onset of turbulence in magneto-rotational instability, and gyrokinetic plasma turbulence.
+Information entropy measures the disorder or inherent unpredictability of spatial and temporal structures in a time-series or spatially in a high-dimensional dynamical system.  
+Statistical complexity characterises disequilibrium (even given a fixed entropy), and can distinguish deterministic from stochastic physics (chaos vs noise).  
+Related measures of causality quantify the relative influence of time-irreversible and -reversible processes, or spatial asymmetry, handedness and directionality.  
+Calculating these entropic scores from output from simulations can measure strengths of coherent structures or signify turbulent transitions.  
+The entropic cost of numerical approximation schemes (e.g. generalised quasilinear models) is objectively derivable by comparison to DNS.  
+We consider diverse applications to (e.g.) fluid thermal convection, onset of turbulence in magneto-rotational instability, and gyrokinetic plasma turbulence.
 
 2024-06-05/06/07,
 [UKMHD 2024](https://ukmhd2024.com/)
