@@ -9,14 +9,14 @@
 [Rich&nbsp;R.&nbsp;Kerswell](https://orcid.org/0000-0001-5460-5337),
 [Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716).
 
-Many MHD and fluid systems depend on physical processes and structures that span many orders of magnitude spatially, which can be intractable for conventional numerical simulations.  Instead, we construct simulations on logarithmic grids in k-space, and render x-space snapshots as processed output.  Firstly, we investigate the heat transport and flows of 2D thermal convection in a Boussinesq fluid at extremes of convective driving (Rayleigh number).  
-Secondly, we simulate the salt fingering regime of doubly-diffusive convection, with heat and compositional buoyancies.  
-Upper and lower boundaries are isothermal, with no-slip conditions, and the vertical grid is a Chebyshev array. 
-Horizontal modes evolve on a logarithmic grid in k-space, spanning >4 orders of magnitude (at little computational cost). 
-Chosen lattice parameters affect the realism of spectra and energy transfers. The domain is horizontally infinite. 
-Freed from the implicit constraints of a standard periodic box, non-repeating asymmetric flow structures can migrate. 
-Transient zonal flows are faster, and can partially erase salt fingers. 
-Nusselt numbers (heat transfer) tend to follow a classical 1/3 power-law with Rayleigh numbers (so far). 
+Many MHD and fluid systems depend on physical processes and structures that span many orders of magnitude spatially, which can be intractable for conventional numerical simulations.  Instead, we construct simulations on logarithmic grids in k-space, and render x-space snapshots as processed output.  Firstly, we investigate the heat transport and flows of 2D thermal convection in a Boussinesq fluid at extremes of convective driving (Rayleigh number).
+Secondly, we simulate the salt fingering regime of doubly-diffusive convection, with heat and compositional buoyancies.
+Upper and lower boundaries are isothermal, with no-slip conditions, and the vertical grid is a Chebyshev array.
+Horizontal modes evolve on a logarithmic grid in k-space, spanning >4 orders of magnitude (at little computational cost).
+Chosen lattice parameters affect the realism of spectra and energy transfers. The domain is horizontally infinite.
+Freed from the implicit constraints of a standard periodic box, non-repeating asymmetric flow structures can migrate.
+Transient zonal flows are faster, and can partially erase salt fingers.
+Nusselt numbers (heat transfer) tend to follow a classical 1/3 power-law with Rayleigh numbers (so far).
 These demonstrations encourage us to expect that logarithmic simulations (on ordinary hardware) might also resolve some magneto-hydrodynamic models that are normally unaffordable.
 
 2024-06-05/06/07,
@@ -34,13 +34,14 @@ Coventry&nbsp;U., UK.
 [Ben&nbsp;F.&nbsp;McMillan](https://orcid.org/0000-0003-1509-2940),
 [Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716)
 
-Information entropy measures the disorder or inherent unpredictability of spatial and temporal structures in a time-series or spatially in a high-dimensional dynamical system.  
-Statistical complexity characterises disequilibrium (even given a fixed entropy), and can distinguish deterministic from stochastic physics (chaos vs noise).  
-Related measures of causality quantify the relative influence of time-irreversible and -reversible processes, or spatial asymmetry, handedness and directionality.  
-Calculating these entropic scores from output from simulations can measure strengths of coherent structures or signify turbulent transitions.  
-The entropic cost of numerical approximation schemes (e.g. generalised quasilinear models) is objectively derivable by comparison to DNS.  
+Information entropy measures the disorder or inherent unpredictability of spatial and temporal structures in a time-series or spatially in a high-dimensional dynamical system.
+Statistical complexity characterises disequilibrium (even given a fixed entropy), and can distinguish deterministic from stochastic physics (chaos vs noise).
+Related measures of causality quantify the relative influence of time-irreversible and -reversible processes, or spatial asymmetry, handedness and directionality.
+Calculating these entropic scores from output from simulations can measure strengths of coherent structures or signify turbulent transitions.
+The entropic cost of numerical approximation schemes (e.g. generalised quasilinear models) is objectively derivable by comparison to DNS.
 We consider diverse applications to (e.g.) fluid thermal convection, onset of turbulence in magneto-rotational instability, and gyrokinetic plasma turbulence.
 
+\[[DOI](http://dx.doi.org/10.13140/RG.2.2.11456.96004)\]
 2024-06-05/06/07,
 [UKMHD 2024](https://ukmhd2024.com/)
 conference poster,
