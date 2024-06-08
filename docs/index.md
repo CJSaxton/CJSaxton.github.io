@@ -42,6 +42,7 @@ The entropic cost of numerical approximation schemes (e.g. generalised quasiline
 We consider diverse applications to (e.g.) fluid thermal convection, onset of turbulence in magneto-rotational instability, and gyrokinetic plasma turbulence.
 
 \[[DOI](http://dx.doi.org/10.13140/RG.2.2.11456.96004)\]
+\[[PDF](pdf/20240605_saxton_poster.pdf)\]
 2024-06-05/06/07,
 [UKMHD 2024](https://ukmhd2024.com/)
 conference poster,
