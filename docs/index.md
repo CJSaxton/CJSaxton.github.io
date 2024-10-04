@@ -3,17 +3,47 @@
 
 ## Recent Presentations:
 
+### Spatially logarithmic simulations of extreme thermal convection and salt fingering
+[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
+[Keaton&nbsp;J.&nbsp;Burns](https://orcid.org/0000-0003-4761-4766),
+[Rich&nbsp;R.&nbsp;Kerswell](https://orcid.org/0000-0001-5460-5337),
+[Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716).
+
+Many MHD and fluid systems depend on physical processes and structures that span orders of magnitude spatially,
+which can be intractable for conventional numerical simulations.
+Instead, we construct simulations on logarithmic grids in *k*-space, and render *x*-space snapshots as processed output.
+Firstly, we investigate the heat transport and flows of 2D thermal convection in a Boussinesq fluid at extremes of convective driving (Rayleigh number).
+Secondly, we simulate the salt fingering regime of doubly-diffusive convection, with heat and compositional buoyancies.
+Upper and lower boundaries are isothermal, with no-slip conditions, and the vertical grid is a Chebyshev array.
+Horizontal modes evolve on a logarithmic grid in *k*-space, spanning >4 orders of magnitude (at little computational cost).
+Chosen lattice parameters affect the realism of spectra and energy transfers.
+The domain is horizontally infinite.
+Freed from the implicit constraints of a standard periodic box, non-repeating asymmetric flow structures can migrate.
+Transient zonal flows are faster, and can partially erase salt fingers.
+Nusselt numbers (heat transfer) tend to follow a classical 1/3 power-law with Rayleigh numbers (so far).
+These demonstrations encourage us to expect that logarithmic simulations (on ordinary hardware) might also resolve some magneto/hydrodynamic models that are normally unaffordable.
+
+2024-09-12/13,
+[Geophysical and Astrophysical Fluids and Dynamos (CAJ75)](https://eps.leeds.ac.uk/faculty-engineering-physical-sciences/events/event/6386/geophysical-and-astrophysical-fluids-and-dynamos-meeting)
+conference poster,
+U.&nbsp;Leeds, UK.
+
+---
+
 ### Spatially logarithmic simulations of extreme thermal convection and convective fingering
 [Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
 [Keaton&nbsp;J.&nbsp;Burns](https://orcid.org/0000-0003-4761-4766),
 [Rich&nbsp;R.&nbsp;Kerswell](https://orcid.org/0000-0001-5460-5337),
 [Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716).
 
-Many MHD and fluid systems depend on physical processes and structures that span many orders of magnitude spatially, which can be intractable for conventional numerical simulations.  Instead, we construct simulations on logarithmic grids in k-space, and render x-space snapshots as processed output.  Firstly, we investigate the heat transport and flows of 2D thermal convection in a Boussinesq fluid at extremes of convective driving (Rayleigh number).
+Many MHD and fluid systems depend on physical processes and structures that span many orders of magnitude spatially, which can be intractable for conventional numerical simulations.
+Instead, we construct simulations on logarithmic grids in *k*-space, and render *x*-space snapshots as processed output.
+Firstly, we investigate the heat transport and flows of 2D thermal convection in a Boussinesq fluid at extremes of convective driving (Rayleigh number).
 Secondly, we simulate the salt fingering regime of doubly-diffusive convection, with heat and compositional buoyancies.
 Upper and lower boundaries are isothermal, with no-slip conditions, and the vertical grid is a Chebyshev array.
-Horizontal modes evolve on a logarithmic grid in k-space, spanning >4 orders of magnitude (at little computational cost).
-Chosen lattice parameters affect the realism of spectra and energy transfers. The domain is horizontally infinite.
+Horizontal modes evolve on a logarithmic grid in *k*-space, spanning >4 orders of magnitude (at little computational cost).
+Chosen lattice parameters affect the realism of spectra and energy transfers.
+The domain is horizontally infinite.
 Freed from the implicit constraints of a standard periodic box, non-repeating asymmetric flow structures can migrate.
 Transient zonal flows are faster, and can partially erase salt fingers.
 Nusselt numbers (heat transfer) tend to follow a classical 1/3 power-law with Rayleigh numbers (so far).
@@ -66,7 +96,7 @@ Nonlinear operators are approximated by finite lattice-supported triads
 We apply these lattices to horizontal dimensions,
 combined with a Chebyshev representation vertically,
 to investigate the scaling properties for the heat transport in Rayleigh-Benard convection up to extreme Ra.
-As a side-effect of irrational k-space scaling,
+As a side-effect of irrational *k*-space scaling,
 the spatial domain is horizontally infinite (not a periodic box) and populated by asymmetric, nonrepetitive flow structures.
 Thermal boundary layers are well resolved by the large Chebyshev resolution.
 We discuss details of these emergent phenomena, and present the global scaling laws.
