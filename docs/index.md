@@ -3,8 +3,29 @@
 
 ## Recent Presentations:
 
-### Spatially logarithmic simulations of extreme thermal convection and salt fingering
+<!--
+### Geophysical Fluids on Logarithmic Lattices
+[Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716)*,
 [Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
+[Rich&nbsp;R.&nbsp;Kerswell](https://orcid.org/0000-0001-5460-5337),
+[Keaton&nbsp;J.&nbsp;Burns](https://orcid.org/0000-0003-4761-4766).
+
+Fluid dynamics for geophysics and astrophysics requires the modelling of nonlinear process over a vast range of spatial and temporal scales.
+Current (and future!) computational methods are not capable of modelling the range of scales required,
+so some compromises are required.
+In this talk I will describe using logarithmic lattices for two problems of geophysical interest,
+Rayleigh-Benard convection and double-diffusive convection in the fingering regime. 
+
+2024-11-24,
+[77th Annual Meeting of the Division of Fluid Dynamics](https://meetings.aps.org/Meeting/DFD24/Session/C01.2)
+conference talk,
+Salt Lake City, USA.
+
+---
+-->
+
+### Spatially logarithmic simulations of extreme thermal convection and salt fingering
+[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978)*,
 [Keaton&nbsp;J.&nbsp;Burns](https://orcid.org/0000-0003-4761-4766),
 [Rich&nbsp;R.&nbsp;Kerswell](https://orcid.org/0000-0001-5460-5337),
 [Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716).
@@ -31,7 +52,7 @@ U.&nbsp;Leeds, UK.
 ---
 
 ### Spatially logarithmic simulations of extreme thermal convection and convective fingering
-[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
+[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978)*,
 [Keaton&nbsp;J.&nbsp;Burns](https://orcid.org/0000-0003-4761-4766),
 [Rich&nbsp;R.&nbsp;Kerswell](https://orcid.org/0000-0001-5460-5337),
 [Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716).
@@ -58,7 +79,7 @@ Coventry&nbsp;U., UK.
 
 ### Quantifying entropy and asymmetry in convective and magnetic turbulence
 
-[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
+[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978)*,
 [Ajay&nbsp;Chandrarajan&nbsp;Jayalekshmi](https://orcid.org/0000-0002-6447-581X),
 [Anna&nbsp;Guseva](https://orcid.org/0000-0003-2831-184X),
 [Ben&nbsp;F.&nbsp;McMillan](https://orcid.org/0000-0003-1509-2940),
@@ -81,7 +102,7 @@ Coventry&nbsp;U., UK.
 ---
 
 ### Spatially logarithmic simulations of Rayleigh-Bénard convection at high Ra
-[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
+[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978)*,
 [Keaton&nbsp;J.&nbsp;Burns](https://orcid.org/0000-0003-4761-4766),
 [Rich&nbsp;R.&nbsp;Kerswell](https://orcid.org/0000-0001-5460-5337),
 [Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716).
@@ -109,7 +130,7 @@ Newcastle&nbsp;U., UK
 ---
 
 ### Entropy, complexity, and causality in direct and approximated fluid simulations
-[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
+[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978)*,
 [Ajay&nbsp;Chandrarajan&nbsp;Jayalekshmi](https://orcid.org/0000-0002-6447-581X),
 [Anna&nbsp;Guseva](https://orcid.org/0000-0003-2831-184X),
 [Ben&nbsp;F.&nbsp;McMillan](https://orcid.org/0000-0003-1509-2940),
@@ -138,7 +159,7 @@ U.&nbsp;Leeds, UK.
 ---
 
 ### Spatially logarithmic simulations of Rayleigh-Bénard convection
-[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
+[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978)*,
 [Keaton&nbsp;J.&nbsp;Burns](https://orcid.org/0000-0003-4761-4766),
 [Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716),
 [Rich&nbsp;R.&nbsp;Kerswell](https://orcid.org/0000-0001-5460-5337).
@@ -169,7 +190,7 @@ that are computationally unaffordable using normal algorithms.
 ---
 
 ### Rotating thermal convection under generalised quasilinear approximations
-[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
+[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978)*,
 [J.&nbsp;Brad&nbsp;Marston](https://orcid.org/0000-0002-9751-829X),
 [Jeffrey&nbsp;S.&nbsp;Oishi](https://orcid.org/0000-0001-8531-6570),
 [Steven&nbsp;M.&nbsp;Tobias](https://orcid.org/0000-0003-0205-7716)
@@ -200,7 +221,7 @@ However, spatial anisotropies are *Λ*-sensitive in all our tests.
 ---
 
 ### Entropy, complexity, and causality in direct and approximated fluid simulations
-[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978),
+[Curtis&nbsp;J.&nbsp;Saxton](https://orcid.org/0000-0002-5441-1978)*,
 [Ajay&nbsp;Chandrarajan&nbsp;Jayalekshmi](https://orcid.org/0000-0002-6447-581X),
 [Anna&nbsp;Guseva](https://orcid.org/0000-0003-2831-184X),
 [Ben&nbsp;F.&nbsp;McMillan](https://orcid.org/0000-0003-1509-2940),
